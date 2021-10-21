@@ -15,6 +15,7 @@ $ rm -rf SIMBF
 $ git clone https://github.com/mrjeeck/SIMBF 
 # RUN TOOLS
 $ cd CMBF
+ 
 $ python2 SIMBF.py
 # INFO LOGIN
 Login WHITE THOKEN
