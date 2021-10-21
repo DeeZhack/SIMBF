@@ -12,6 +12,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf SIMBF
+
 $ git clone https://github.com/mrjeeck/SIMBF 
 # RUN TOOLS
 $ cd CMBF
