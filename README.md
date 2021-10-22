@@ -16,7 +16,7 @@ $ pip2 install futures
 
 $ git clone https://github.com/mrjeeck/SIMBF 
 # RUN TOOLS
-$ cd CMBF
+$ cd SIMBF
  
 $ python2 SIMBF.py
 # INFO LOGIN
