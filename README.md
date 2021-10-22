@@ -6,6 +6,7 @@ sebuah tools crack fb seder hana
 $ termux-setup-storage  
 $ pkg update && upgrade  
 $ pkg install python2 
+
 $ pkg install git  
 $ pip2 install bs4  
 $ pip2 install requests  
