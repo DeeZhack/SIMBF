@@ -2,28 +2,45 @@
 
 # PRINTAH PENGINSTALAN ON TERMUX
 $ pkg update && upgrade  
+
 $ termux-setup-storage  
+
 $ pkg install python  
+
 $ pkg install git  
-$ pip install bs4  
+
+$ pip install bs4 
+
 $ pip install requests  
+
 $ pip install mechanize  
+
 $ pip install futures 
+
 $ pkg install python2
+
 $ pkg install git
+
 $ pip2 install bs4
+
 $ pip2 install requests
+
 $ pip2 install mechanize
+
 $ pip2 install futures
+
 $ rm -rf SIMBF 
+
 $ git clone https://github.com/mrjeeck/SIMBF
 
 # RUN TOOLS SIMBIF
 $ cd SIMBF
+
 $ python2 SIMBF.py
 
 # RUN TOOLS PREMIUM
 $ cd SIMBF
+
 $ python3 premium.py
 
 # MENU LOGIN TOOLS SIMBF
