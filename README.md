@@ -51,28 +51,42 @@ LOGIN WHITE TOKEN & COKIE
 
 # MENU TOOLS SIMBF
 [1]. Metode B-Api (Fast Crack)
+
 [2]. Metode Mbasic (Lambat Dan Memuaskaan )
+
 [0]. Keluar (Hapus Token :( )
+
 
 [?] Pilih :
 
 # MENU FIRST TOOLS PREMIUM
 [1] From Indonesia
+
 [2] From Bangladesh/India
+
 [3] From Pakistan
+
 [4] From USA
 
 [•] PILIH ----->
 
 # MENU IF SELECTED TOOLS PREMIUM
 [1] Crack ID From Public/Friend
+
 [2] Crack ID From Followers
+
 [3] Crack ID From Likers Post
+
 [4] Crack By Phone Number
+
 [5] Crack By Email
+
 [6] Get Data Target
+
 [7] Result Crack
+
 [8] User Agent
+
 [0] Logout
 
 [•] PILIH ---->
