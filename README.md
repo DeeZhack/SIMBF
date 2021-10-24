@@ -14,6 +14,8 @@ $ pip2 install mechanize
 $ pip2 install futures  
 
 
+
+
 $ git clone https://github.com/mrjeeck/SIMBF 
 # RUN TOOLS
 $ cd SIMBF
@@ -26,23 +28,11 @@ Login WHITE THOKEN
 
 [2]. Metode Mbasic (Lambat Dan Memuaskaan )
 
-(0). Keluar (Hapus Token :( )
-# INFO CRACK B API
-[1]. Crack Dari Teman Sendiri
 
 [2]. Crack Dari ID Publik
 
-[3]. Crack Dari Followers
 
-[4]. Lihat Hasil Crack
 # INFO CRACK MBASIC
-[1]. Crack Dari Publik Teman
 
-[2]. Crack Dari Total Followers
 
-[3]. Lihat Hasil Crack
 
-# INFO PREM
-SEGERA MENYUSUL/SEDANG PROSES PEMBUATAN
-# INFORMASI 
-Author Tidak Bertanggung Jawab Atas Tools Yang Di Salah Gunakan
