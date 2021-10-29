@@ -41,13 +41,13 @@ $ python2 SIMBF.py
 # RUN TOOLS PREMIUM
 $ cd SIMBF
 
-$ python3 premium.py
+$ python2 premium.py
 
 # MENU LOGIN TOOLS SIMBF
 LOGIN WHITE TOKEN
 
 # MENU LOGIN TOOLS PREMIUM
-LOGIN WHITE TOKEN & COKIE
+LOGIN WHITE TOKEN 
 
 # MENU TOOLS SIMBF
 [1]. Metode B-Api (Fast Crack)
@@ -60,39 +60,25 @@ LOGIN WHITE TOKEN & COKIE
 [?] Pilih :
 
 # MENU FIRST TOOLS PREMIUM
-[1] From Indonesia
 
-[2] From Bangladesh/India
 
-[3] From Pakistan
+  [1] Crack Dari Id Public Teman
+  
+  [2] Crack Dari Id Public Followers
+  
+  [3] Crack Dari Multi Target
+  
+  [4] Lihat Hasil Crack Anda
+  
+  [5] Lihat Opsi Hasil Cp
+  
+  [6] Seting2 User-Agent
+  
+  [0] exit ( Hapus Token FB)
 
-[4] From USA
+  [•] Pilih --=>
 
-[•] PILIH ----->
 
-# MENU IF SELECTED TOOLS PREMIUM
-[1] Crack ID From Public/Friend
-
-[2] Crack ID From Followers
-
-[3] Crack ID From Likers Post
-
-[4] Crack By Phone Number
-
-[5] Crack By Email
-
-[6] Get Data Target
-
-[7] Result Crack
-
-[8] User Agent
-
-[0] Logout
-
-[•] PILIH ---->
-
-# INFORMASI TOOLS PREMIUM
-Agak Lelet + Crak Dump Pw List 10
 
 # INFORMASI TERAKHIR
 Jangan Di Salah Gunakan Tools & author tidak bertanggung 
