@@ -188,7 +188,7 @@ def _jeckoramadhan_ganz_():
 # def_
     
 def ___jeeck___xnano___xxz___():
-    os.system('git pull')
+  #  os.system('git pull')
     os.system('clear')
     try:
     	lalalalaganigani = open('.almiraXjeeck.txt', 'r').read()
